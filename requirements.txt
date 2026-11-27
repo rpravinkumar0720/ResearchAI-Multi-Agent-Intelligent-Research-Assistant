@@ -1,0 +1,23 @@
+# Multi-Agent Framework
+crewai>=0.100.0
+
+# Web UI
+gradio>=5.0.0
+
+# Web Search & Scraping
+ddgs>=7.0.0
+tavily-python>=0.5.0
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# Configuration & Data Validation
+python-dotenv>=1.0.1
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+
+# Report Formatting & Export
+markdown>=3.7
+fpdf2>=2.8.0
+
+# Testing
+pytest>=8.3.0

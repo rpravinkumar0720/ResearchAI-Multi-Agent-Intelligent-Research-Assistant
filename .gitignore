@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment variables (never commit API keys!)
+.env
+
+# Generated reports & caches
+outputs/*.md
+outputs/*.pdf
+!outputs/.gitkeep
+.pytest_cache/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
